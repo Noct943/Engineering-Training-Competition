@@ -1,3 +1,5 @@
-let it done.
-show me it changed.
-log.
+#include "stdint.h"
+
+for (;;)
+{
+}
